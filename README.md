@@ -71,37 +71,39 @@ pip install -r requirements.txt
 
 4. Add API Keys
 
-Create a .env file for NewsToMusic:
-
-clientID = your_spotify_client_id
-clientSecret = your_spotify_client_secret
-newsKey = your_news_api_key
+  Create a .env file for NewsToMusic:
+  
+    clientID = your_spotify_client_id
+    clientSecret = your_spotify_client_secret
+    newsKey = your_news_api_key
 
 ▶️ Running Each Program
-Run NewsScraper
-python newsScraper.py or py newsScraper.py 
-
-Run NewsToMusic
-python NewsToMusic.py or py NewsToMusic.py
-
+  - Run NewsScraper
+  ```
+  python newsScraper.py or py newsScraper.py 
+  ```
+  - Run NewsToMusic
+  ```
+  python NewsToMusic.py or py NewsToMusic.py
+  ```
 
 🧠 Why This Project?
 
-This repo explores:
+  This repo explores:
 
-Web scraping
-
-REST API integration
-
-Data extraction
-
-Music search automation
-
-Practical Python scripting
-
-Perfect for beginners experimenting with APIs and creative automation.
+    Web scraping
+    
+    REST API integration
+    
+    Data extraction
+    
+    Music search automation
+    
+    Practical Python scripting
+    
+    Perfect for beginners experimenting with APIs and creative automation.
 
 📄 License
 
-MIT License — free to use and modify.
+  MIT License — free to use and modify.
 
